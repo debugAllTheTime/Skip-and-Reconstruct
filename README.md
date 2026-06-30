@@ -5,6 +5,7 @@ Official code repository for the paper:
 **Accelerating ViT-Based Depth Estimation via Hidden-State Reconstruction after Encoder Block Skipping**
 
 Shuangjie Yuan, Yanxia Wang, Zhichao Xing, Lu Yang
+
 University of Electronic Science and Technology of China
 
 ---
